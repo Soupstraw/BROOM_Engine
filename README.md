@@ -1,7 +1,7 @@
 # BROOM_Engine
 
 This is my attempt at making a simple DOOM-like raycast rendering engine.
-It runs on the CPU so it's pretty slow.
+It runs on the CPU so it's pretty ~~slow~~ nice.
 
 ## Controls:
 W, A, S and D - movement  
